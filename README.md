@@ -1,2 +1,2 @@
 # Parallel-Programming
-Sabanci University CS 406 Projects
+Sabanci University CS 406 Homeworks
